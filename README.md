@@ -1,4 +1,4 @@
-# Auto GPT: Documents Analysis
+# AutoGPT: Documents Analysis
 
 This is an Auto GPT APP for analyzing the document's content using natural language.
 All you need to do is to upload documents that require analysis and ask questions, the app will get the answers for you.
